@@ -46,16 +46,17 @@ Designed a secure and efficient banking network with VLANs, VPNs, ACLs, and DNS.
 
 - ⭐ Two-Star Coder on GeeksforGeeks (1500+ rating)  
 - 💡 Profiles:
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/udaykancha5o4x/) 
   - [LeetCode](https://leetcode.com/udayhacks/)
   - [CodeChef](https://www.codechef.com/users/udayhacks123)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/udaykancha5o4x/)
+  
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: [udaykanchanpally408@gmail.com](mailto:udaykanchanpally408@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-k-65b9a7202)  
+- 🔗 [LinkedIn](www.linkedin.com/in/uday-kanchanapally-65b9a7202)  
 - 🐙 [GitHub](https://github.com/udayhacks)  
 - 🧠 [Kaggle](https://www.kaggle.com/udaykanchanpally)
 
