@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Uday Kanchanpally
 
-<!--
-**udayhacks/udayhacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate | 💡 Machine Learning Enthusiast | Software Developer |🧠 Problem Solver
 
-Here are some ideas to get you started:
+I’m passionate about building data-driven solutions and working on real-world challenges in machine learning, networking, and software development. I actively participate in competitive coding and continuously upskill through hands-on projects and certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🌾 [Fertilizer Recommendation Using ML](https://www.kaggle.com/code/udaykanchanpally/predicting-with-interactive-eda-and-boosting)
+Predicts the best fertilizer based on crop, weather, and soil data using boosting algorithms and interactive EDA.  
+**Tools:** Python, XGBoost, Pandas, Scikit-learn, Kaggle  
+**Metrics:** MAP@3
+
+### 📉 [Crop Price Prediction](https://github.com/udayhacks/Mini--Project)
+Forecasts future crop prices using historical and environmental data.  
+**Tools:** Python, Machine Learning  
+**Highlights:** High-accuracy predictions to help farmers and traders optimize strategies.
+
+### 🌐 Bank Network Simulation using Cisco Packet Tracer
+Designed a secure and efficient banking network with VLANs, VPNs, ACLs, and DNS.  
+**Tools:** Cisco Packet Tracer, TCP/IP, OSPF  
+**Use case:** Secure ATM and branch-level communication network.
+
+---
+
+## 🧠 Skills
+
+- **Programming:** Python, C++, SQL, DSA, OOP
+- **Tools & Platforms:** Git, Docker, Azure, Cisco Packet Tracer
+- **ML & Data Science:** Pandas, Scikit-learn, XGBoost, EDA
+- **Soft Skills:** Problem Solving, Critical Thinking, Attention to Detail
+
+---
+
+## 📜 Certifications
+
+- 🛡️ Red Team & Blue Team Fundamentals – TryHackMe  
+- 🔐 Cybersecurity Foundation – IBM SkillsBuild  
+- 🐍 Python (Advanced) – HackerRank ([Certificate](https://www.hackerrank.com/certificates/45c987f1f480))
+
+---
+
+## 💻 Competitive Programming
+
+- ⭐ Two-Star Coder on GeeksforGeeks (1500+ rating)  
+- 💡 Profiles:
+  - [LeetCode](https://leetcode.com/udayhacks/)
+  - [CodeChef](https://www.codechef.com/users/udayhacks123)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/udaykancha5o4x/)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [udaykanchanpally408@gmail.com](mailto:udaykanchanpally408@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-k-65b9a7202)  
+- 🐙 [GitHub](https://github.com/udayhacks)  
+- 🧠 [Kaggle](https://www.kaggle.com/udaykanchanpally)
+
+---
+
+> 🔍 *“Learning never exhausts the mind.” — Leonardo da Vinci*
