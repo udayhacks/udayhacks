@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Uday Kanchanpally
 
-🎓 Computer Science Graduate | 💡 Machine Learning Enthusiast | Software Developer |🧠 Problem Solver
+🎓 Computer Science Graduate | Software Developer | 🧠 Problem Solver  
 
-I’m passionate about building data-driven solutions and working on real-world challenges in machine learning, networking, and software development. I actively participate in competitive coding and continuously upskill through hands-on projects and certifications.
+I’m passionate about building data-driven solutions and working on real-world challenges in **machine learning, networking, software development, and full-stack applications**. I actively participate in competitive coding and continuously upskill through hands-on projects and certifications.
 
 ---
 
@@ -27,10 +27,11 @@ Designed a secure and efficient banking network with VLANs, VPNs, ACLs, and DNS.
 
 ## 🧠 Skills
 
-- **Programming:** Python, C++, SQL, DSA, OOP
-- **Tools & Platforms:** Git, Docker, Azure, Cisco Packet Tracer
-- **ML & Data Science:** Pandas, Scikit-learn, XGBoost, EDA
-- **Soft Skills:** Problem Solving, Critical Thinking, Attention to Detail
+- **Programming:** Python, C++, JavaScript, SQL, DSA, OOP  
+- **Web & Full-Stack Development:** HTML, CSS, JavaScript, React, Django  
+- **Tools & Platforms:** Git, Docker, Azure, Cisco Packet Tracer  
+- **ML & Data Science:** Pandas, Scikit-learn, XGBoost, EDA  
+- **Soft Skills:** Problem Solving, Critical Thinking, Attention to Detail  
 
 ---
 
@@ -45,21 +46,20 @@ Designed a secure and efficient banking network with VLANs, VPNs, ACLs, and DNS.
 ## 💻 Competitive Programming
 
 - ⭐ Two-Star Coder on GeeksforGeeks (1500+ rating)  
-- 💡 Profiles:
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/udaykancha5o4x/) 
-  - [LeetCode](https://leetcode.com/udayhacks/)
+- 💡 Profiles:  
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/udaykancha5o4x/)  
+  - [LeetCode](https://leetcode.com/udayhacks/)  
   - [CodeChef](https://www.codechef.com/users/udayhacks123)
-  
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: [udaykanchanpally408@gmail.com](mailto:udaykanchanpally408@gmail.com)  
-- 🔗 [LinkedIn](www.linkedin.com/in/uday-kanchanapally-65b9a7202)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-kanchanapally-65b9a7202)  
 - 🐙 [GitHub](https://github.com/udayhacks)  
 - 🧠 [Kaggle](https://www.kaggle.com/udaykanchanpally)
 
 ---
 
-> 🔍 *“Learning never exhausts the mind.” — Leonardo da Vinci*
+> 🔍 *“Learning never exhausts the mind.” — Leonardo da Vinci*  
