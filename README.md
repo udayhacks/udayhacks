@@ -19,17 +19,23 @@ A complete book store system built with a React frontend and Django backend (Dja
 * Cart persistence, order creation, and basic checkout flow (mock payment integration).
 * Clear project structure, README with setup & run instructions, and environment configuration for local development.
 
+---
+
 ### 🌾 [Fertilizer Recommendation Using ML](https://www.kaggle.com/code/udaykanchanpally/predicting-with-interactive-eda-and-boosting)
 
 Predicts the best fertilizer based on crop, weather, and soil data using boosting algorithms and interactive EDA.
 **Tools:** Python, XGBoost, Pandas, Scikit-learn, Kaggle
 **Metrics:** MAP@3
 
+---
+
 ### 📉 [Crop Price Prediction](https://github.com/udayhacks/Mini--Project)
 
 Forecasts future crop prices using historical and environmental data.
 **Tools:** Python, Machine Learning
 **Highlights:** High-accuracy predictions to help farmers and traders optimize strategies.
+
+---
 
 ### 🌐 Bank Network Simulation using Cisco Packet Tracer
 
